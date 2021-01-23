@@ -3,7 +3,7 @@
 <h3>About Me</h3>
 
 - 🎓 &nbsp; Studied Computervisualistics at University of Koblenz-Landau, Germany.
-- 💼 &nbsp; Currently working as Principal Software Engineer at Telespazio VEGA Deutschland GmbH.
+- 💼 &nbsp; Currently working as Principal Software Engineer at Telespazio Germany GmbH.
 - 🚀 &nbsp; Leading and developing software projects in the space domain since 2010.
 - 🌱 &nbsp; Learning more about Confluence server app programming in my free time.
 
