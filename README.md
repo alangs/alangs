@@ -14,10 +14,10 @@
 - 🌐 &nbsp; PHP | SQL | HTML | CSS | JavaScript
 - 🔧 &nbsp; Eclipse IDE | Git | Maven | CMake | Jenkins | SonarQube | Nexus | Puppet | JIRA | Confluence | Windows | Linux
 - 🖥 &nbsp; MS Office | Autodesk Maya | Adobe Creative Suite | MagicDraw UML | Latex
-- 👌 &nbsp;&nbsp; Certified Scrum Master
+- 👌 &nbsp; Certified Scrum Master
 
 <h3>Important to Me</h3>
 
 - ❤️ &nbsp; Good quality (clean) code, tested and documented | Boy Scout Rule
 - 📣 &nbsp; Great collaboration and open communication | Sharing knowledge
-- 💡 &nbsp;&nbsp; Innovation and new technologies | Always strive to do better
+- 💡 &nbsp; Innovation and new technologies | Always strive to do better
