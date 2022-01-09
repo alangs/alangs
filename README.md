@@ -12,7 +12,7 @@
 - 💻 &nbsp; Java | C++ | Templating languages | Scripting (Shell, Python, Groovy)
 - ✨ &nbsp; Eclipse RCP | Eclipse EMF | JUnit | OSGi
 - 🌐 &nbsp; PHP | SQL | HTML | CSS | JavaScript
-- 🔧 &nbsp; Eclipse IDE | Git | Maven | CMake | Jenkins | SonarQube | Nexus | Puppet | JIRA | Confluence | Windows | Linux
+- 🔧 &nbsp; Eclipse IDE | Git | Maven | CMake | Jenkins | GitLab CI | SonarQube | Nexus | Puppet | JIRA | Confluence | Windows | Linux
 - 🖥 &nbsp; MS Office | Autodesk Maya | Adobe Creative Suite | MagicDraw UML | Latex
 - 👌 &nbsp; Certified Scrum Master
 
